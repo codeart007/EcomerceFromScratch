@@ -5,6 +5,6 @@
     <title></title>
   </head>
   <body>
-
+    <h1>Welcome to ecommerce projet</h1>
   </body>
 </html>
