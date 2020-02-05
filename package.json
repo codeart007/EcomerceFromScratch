@@ -1,0 +1,26 @@
+{
+  "name": "ecomercefromscratch",
+  "version": "1.0.0",
+  "description": "Ecommerce project for buying products",
+  "main": "\u001b[Cex.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeart007/EcomerceFromScratch.git"
+  },
+  "author": "Shad Tambu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeart007/EcomerceFromScratch/issues"
+  },
+  "homepage": "https://github.com/codeart007/EcomerceFromScratch#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1"
+  },
+  "dependencies": {
+    "gulp-sass": "^4.0.2"
+  }
+}
